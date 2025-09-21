@@ -38,14 +38,15 @@
 7. **Install Suggested Plugins**  
    Typical suggested plugins include:
 
-   | Category             | Example Plugins                                                                 |
-       |----------------------|----------------------------------------------------------------------------------|
-   | **Pipelines & Build** | **Pipeline** (workflow-aggregator, includes *Pipeline: Groovy*, *Pipeline: Stage View*) |
+   | Category                 | Example Plugins                                                                 |
+   |--------------------------|---------------------------------------------------------------------------------|
+   | **Pipelines & Build**    | **Pipeline** (workflow-aggregator, includes *Pipeline: Groovy*, *Pipeline: Stage View*) |
    | **SCM (Source Control)** | **Git**, **GitHub**, **GitHub Branch Source**, **Subversion**                   |
-   | **UI / Management**   | **Folders**, **Build Timeout**, **Timestamper**                                  |
-   | **Agents / Nodes**    | **SSH Build Agents** (a.k.a. SSH Slaves)                                         |
-   | **Triggers & Integrations** | **Email Extension**, **Mailer**, **Gradle**, **Credentials Binding**        |
-   | **Utilities**         | **Matrix Authorization Strategy**, **Command Agent Launcher**, **JUnit**, **Workspace Cleanup** |
+   | **UI / Management**      | **Folders**, **Build Timeout**, **Timestamper**                                  |
+   | **Agents / Nodes**       | **SSH Build Agents** (a.k.a. SSH Slaves)                                        |
+   | **Triggers & Integrations** | **Email Extension**, **Mailer**, **Gradle**, **Credentials Binding**         |
+   | **Utilities**            | **Matrix Authorization Strategy**, **Command Agent Launcher**, **JUnit**, **Workspace Cleanup** |
+
 
 
 8.  **Install Docker**
